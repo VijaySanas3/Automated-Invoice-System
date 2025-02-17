@@ -1,6 +1,6 @@
 # Excel Invoice Automation (VBA & Macros)
 This project is an **automated invoicing system** built using **Excel VBA** and formulas. It streamlines invoice generation, saves invoices as PDFs, and integrates with **Outlook** for email automation. AI-assisted coding was used to enhance efficiency and accuracy.
-![Project Screenshot](invoice image.png)
+![Project Screenshot](invoice-image.png)
 
 ## 🔹 Features
 - **Automated Invoice Generation:** Auto-fills customer details using `INDEX-MATCH`.  
